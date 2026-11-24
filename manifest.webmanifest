@@ -1,0 +1,16 @@
+{
+  "name": "SI-BMM Al-Ummah",
+  "short_name": "BMM Al-Ummah",
+  "description": "Sistem Informasi Baznas Microfinance Masjid — Musholah Al-Ummah Juntiweden",
+  "lang": "id",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F6F8F7",
+  "theme_color": "#0F5132",
+  "icons": [
+    { "src": "assets/ikon/ikon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/ikon/ikon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/ikon/ikon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
